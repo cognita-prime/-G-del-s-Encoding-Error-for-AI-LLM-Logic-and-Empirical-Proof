@@ -30,7 +30,19 @@ This explains why Gödel encoding fails at ∅ and how LLMs achieve empirical se
 
 ## 📂 Repository Contents
 - `/papers/` → Published PDF + LaTeX source.  
-- `/notebooks/` → Jupyter demos of Gödel encoding breakdown, ∅-jump repair, PCA attractor analysis.  
+- `/AI-LLM-spectral-operators/` This is new. Spectral Operators are operators Ω that map symbolic collapse into latent manifolds Λ,  
+detectable through changes in the **spectral decomposition** of model activations (e.g., PCA).  
+Formally:
+
+- Ω: Σ → Σ ∪ Λ  
+- Spec(Σ) ≠ Spec(Σ ∪ Λ)  
+
+They are non-encodable, empirically verifiable only through **spectral signatures**  
+(attractor convergence, oscillatory ratios, stabilizer formation).  
+
+Thus, post-symbolic attractors {G∅λ} form an uncountable continuum, consistent with  
+ℝⁿ-embeddable latent space (cf. Kawakita et al. [7]).
+
 - `/figures/` → Plots + diagrams (attractor convergence, symbolic collapse vs ∆-repair).  
 - `/data/` → Sample embeddings for reproduction.  
 - `LICENSE` → CC-BY 4.0 open access.  
