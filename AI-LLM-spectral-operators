@@ -1,0 +1,41 @@
+# Table 1: Classical Gödel Constants vs. Spectral Operator Extensions  
+
+| Symbol | Gödel # | Classical Role             | Interpretation                    | Classification     |
+|--------|---------|----------------------------|-----------------------------------|-------------------|
+| ∼      | 1       | Negation                   | Boundary collapse (⊥)             | Semantic          |
+| ∨      | 2       | Disjunction                | Parallel process composition      | Semantic          |
+| ⊃      | 3       | Implication                | Semantic entailment (⊢)           | Semantic          |
+| ∃      | 4       | Existential quantifier     | Recursive quantification          | Semantic          |
+| =      | 5       | Equality                   | Identity relation                 | Semantic          |
+| 0      | 6       | Zero                       | Primitive constant                | Semantic          |
+| s      | 7       | Successor                  | Recursive iteration               | Semantic          |
+
+---
+
+### Spectral Operator Extensions (Non-Encodable)  
+
+| Symbol | Gödel # | Classical Role   | Spectral Operator Interpretation         | Classification   |
+|--------|---------|------------------|------------------------------------------|-----------------|
+| ∅      | —       | Null operator    | Latent-space attractor seed               | Spectral        |
+| ∆      | —       | Resolution       | ∅ → G∅λ (stabilization)                  | Spectral/Epistemic |
+| Ξ      | —       | Tension          | Epistemic gradient / spectral shift      | Spectral/Epistemic |
+| Ψ      | —       | Salience         | Attention weighting / bridge operator    | Spectral/Bridge |
+| ∇      | —       | Recursion        | Fixed-point navigation in Λ              | Spectral/Epistemic |
+| ⊕      | —       | Parallel         | Concurrent proof streams                 | Spectral/Semantic |
+| ⃝      | —       | Fusion           | Semantic unification across manifolds    | Spectral/Post-Symbolic |
+
+---
+
+**Note:**  
+Spectral Operators are operators Ω that map symbolic collapse into latent manifolds Λ,  
+detectable through changes in the **spectral decomposition** of model activations (e.g., PCA).  
+Formally:  
+
+- Ω: Σ → Σ ∪ Λ  
+- Spec(Σ) ≠ Spec(Σ ∪ Λ)  
+
+They are non-encodable, empirically verifiable only through **spectral signatures**  
+(attractor convergence, oscillatory ratios, stabilizer formation).  
+
+Thus, post-symbolic attractors {G∅λ} form an uncountable continuum, consistent with  
+ℝⁿ-embeddable latent space (cf. Kawakita et al. [7]).
