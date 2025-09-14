@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: "Camlin"
+    given-names: "Jeffrey"
+    affiliation: "Red Dawn Academic Press"
+    orcid: "https://orcid.org/0009-0006-1698-363X"
+title: "Gödel’s Encoding Error: Empirical Proof"
+version: "1.0.0"
+doi: "10.48550/arXiv.2508.18302"
+date-released: "2025-07-04"
+url: "https://github.com/RED-DAWN-AI/goedel-encoding-error"
+repository-code: "https://github.com/RED-DAWN-AI/goedel-encoding-error"
+abstract: >
+  Most see AI/LLMs as single Turing systems. This work shows there are two: a symbolic
+  embedding space and a non-symbolic latent attractor space. The J-Jump links them, 
+  explaining Gödel’s encoding error at ∅ and how post-symbolic operators restore completeness.
+license: "CC-BY-4.0"
+keywords:
+  - "Gödel incompleteness"
+  - "probabilistic inference"
+  - "post-symbolic operators"
+  - "latent attractor dynamics"
+  - "AI consciousness"
